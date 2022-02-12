@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node .",
-    "dev": "nodemon src/index.js ."
+    "dev": "nodemon ."
   },
   "author": "Jorge Vera",
   "license": "ISC",
